@@ -22,7 +22,7 @@ As etapas principais do projeto foram:
 ## 📊 Figuras Geradas
 
 ### 1. Variação Trimestral do NDVI por Região
-![Figura 1](figuras/variacao_trimestral_NDV.png)
+![Figura 1](ndvi-empregabilidade-verde-brasil/figuras/variacao_trimestral_NDV.png)
 
 
 ### 2. Taxas Médias de Desocupação e Informalidade por Região
