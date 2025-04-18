@@ -25,22 +25,22 @@ As etapas principais do projeto foram:
 ![Figura 1](images/figura1_variacao_trimestral_NDV.png)
 
 ### 2. Taxas Médias de Desocupação e Informalidade por Região  
-![Figura 2](figuras/figura_2_pnadc_desocupacao_informalidade_regiao.png)
+![Figura 2](images/figura2_pnadc_desocupacao_informalidade_regiao.png)
 
 ### 3. Dispersão NDVI × Soma das Taxas de Desocupação + Informalidade  
-![Figura 3](figuras/figura_3_dispersao_ndvi_taxas.png)
+![Figura 3](images/figura3_dispersao_ndvi_taxas.png)
 
 ### 4. Dispersão NDVI × Desocupação por Cluster  
-![Figura 4](figuras/figura_4_ndvi_desocupacao_cluster.png)
+![Figura 4](images/figura4_dispersao_ndvi_desocupacao_por_cluster.png)
 
 ### 5. Boxplot da Taxa de Informalidade por Cluster  
-![Figura 5](figuras/figura_5_boxplot_informalidade_por_cluster.png)
+![Figura 5](images/figura5_boxplot_informalidade_por_cluster.png)
 
 ### 6. Distribuição dos Clusters por Região  
-![Figura 6](figuras/figura_6_distribuicao_clusters_por_regiao.png)
+![Figura 6](images/figura6_distribuicao_clusters_por_regiao.png)
 
 ### 7. Custo Estimado para Empregabilidade Verde por Cluster  
-![Figura 7](figuras/figura_7_custo_empregabilidade_cluster.png)
+![Figura 7](images/figura7_custo_por_cluster.png)
 ---
 
 ## 🗂 Estrutura do Repositório
