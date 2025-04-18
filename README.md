@@ -45,10 +45,9 @@ As etapas principais do projeto foram:
 
 ## 🗂 Estrutura do Repositório
 
-📁 codigos/          # Scripts em Python com comentários explicativos
-📁 dados/            # Bases utilizadas no estudo (NDVI e PNADC)
-📁 figuras/          # Gráficos gerados com base nos dados
-📁 documentacao/     # TCC final (PDF/Word) e arquivos complementares
+📁 code/          # Scripts em Python com comentários explicativos
+📁 data/            # Bases utilizadas no estudo (NDVI e PNADC)
+📁 images/          # Gráficos gerados com base nos dados
 
 ---
 
