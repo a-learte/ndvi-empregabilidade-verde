@@ -21,31 +21,34 @@ As etapas principais do projeto foram:
 
 ## 📊 Figuras Geradas
 
-### 1. Variação Trimestral do NDVI por Região
-![Figura 1](figuras/variacao_trimestral_NDV.png)
+### 1. Variação Trimestral do NDVI por Região  
+![Figura 1](figuras/figura_1_variacao_trimestral_NDVI.png)
 
+### 2. Taxas Médias de Desocupação e Informalidade por Região  
+![Figura 2](figuras/figura_2_pnadc_desocupacao_informalidade_regiao.png)
 
-### 2. Taxas Médias de Desocupação e Informalidade por Região
-![Figura 2](figuras/fig_pnadc_desocupacao_informalidade_regiao.png)
+### 3. Dispersão NDVI × Soma das Taxas de Desocupação + Informalidade  
+![Figura 3](figuras/figura_3_dispersao_ndvi_taxas.png)
 
-### 3. Dispersão NDVI × Soma das Taxas de Desocupação + Informalidade
-![Figura 3](figuras/figura_5_dispersao_ndvi_taxas.png)
+### 4. Dispersão NDVI × Desocupação por Cluster  
+![Figura 4](figuras/figura_4_ndvi_desocupacao_cluster.png)
 
-### 4. Dispersão NDVI × Desocupação por Cluster
-![Figura 4](figuras/figura_ndvi_desocupacao_cluster.png)
+### 5. Boxplot da Taxa de Informalidade por Cluster  
+![Figura 5](figuras/figura_5_boxplot_informalidade_por_cluster.png)
 
-### 5. Boxplot da Taxa de Informalidade por Cluster
-![Figura 5](figuras/figura_boxplot_informalidade_por_cluster.png)
+### 6. Distribuição dos Clusters por Região  
+![Figura 6](figuras/figura_6_distribuicao_clusters_por_regiao.png)
 
-### 6. Distribuição dos Clusters por Região
-![Figura 6](figuras/figura_distribuicao_clusters_por_regiao.png)
-
-### 7. Custo Estimado para Empregabilidade Verde por Cluster
-![Figura 7](figuras/figura_custo_cluster.png)
-
+### 7. Custo Estimado para Empregabilidade Verde por Cluster  
+![Figura 7](figuras/figura_7_custo_empregabilidade_cluster.png)
 ---
 
 ## 🗂 Estrutura do Repositório
+
+📁 codigos/          # Scripts em Python com comentários explicativos
+📁 dados/            # Bases utilizadas no estudo (NDVI e PNADC)
+📁 figuras/          # Gráficos gerados com base nos dados
+📁 documentacao/     # TCC final (PDF/Word) e arquivos complementares
 
 ---
 
