@@ -1,8 +1,11 @@
 🌱 NDVI, Empregabilidade Verde e Políticas Públicas Sustentáveis no Brasil
+
 O Que Se Faz Aqui?
+
 Este repositório apresenta a análise da relação entre a cobertura vegetal (NDVI) e os indicadores de vulnerabilidade socioeconômica no Brasil. Com base em dados públicos do Google Earth Engine (NDVI/MODIS) e PNADC/IBGE (2024), segmentamos os estados em clusters homogêneos e estimamos os investimentos necessários para promover empregabilidade verde em regiões prioritárias, considerando o salário mínimo de R$ 1.518,00 por 6 meses.
 
 Por Quê?
+
 A crise climática e o desemprego afetam desproporcionalmente as regiões mais vulneráveis do Brasil. Ao integrar dados ambientais e socioeconômicos, este projeto propõe uma abordagem baseada em evidências para auxiliar gestores públicos a planejar políticas de reflorestamento urbano que também promovam inclusão produtiva, em conformidade com os Objetivos de Desenvolvimento Sustentável (ODS 8 e 13) e práticas ESG.
 
 Como?
